@@ -1,0 +1,13 @@
+fullmaglist 
+
+ periodlist 
+
+ measuredperiodlist 
+
+ siglist 
+
+ powerlist 
+
+ listnumberlist 
+
+ end of file

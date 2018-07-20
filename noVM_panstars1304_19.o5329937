@@ -1,0 +1,23 @@
+ Running PBS prologue script on green0531
+
+ ===============================================================================
+ Job started on Mon Jun  4 20:15:21 BST 2018
+
+ JOB ID: 5329937.blue101
+ JOB NAME: noVM_panstars1304_19
+ Num Hosts: 1
+ Num Tasks: 16
+ Nodes used: 
+ green0531
+ ===============================================================================
+ Job Output Follows:
+ ===============================================================================
+
+[22.2809301, 25.4157936, 24.7290732, 24.0, 23.5545393, 23.281515, 23.1037845]
+
+ ===============================================================================
+ Job finished at Mon Jun  4 20:15:32 BST 2018
+
+
+Requested resource limits are neednodes=1:ppn=16,nodes=1:ppn=16,pmem=4000mb,walltime=15:00:00
+Used resource limits are cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:11

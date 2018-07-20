@@ -1,0 +1,2 @@
+/home/mj1e16/periodic/astro630_17.py:142: RuntimeWarning: divide by zero encountered in log
+  logmins = [np.log(d) for d in minutes] # for plotting?

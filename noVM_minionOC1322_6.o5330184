@@ -1,0 +1,56 @@
+ Running PBS prologue script on green0693
+
+ ===============================================================================
+ Job started on Thu Jun  7 17:26:45 BST 2018
+
+ JOB ID: 5330184.blue101
+ JOB NAME: noVM_minionOC1322_6
+ Num Hosts: 1
+ Num Tasks: 16
+ Nodes used: 
+ green0693
+ ===============================================================================
+ Job Output Follows:
+ ===============================================================================
+
+Finding optimal frequency:
+ - Estimated peak width = 0.0581
+ - Using 5 steps per peak; omega_step = 0.0116
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1028 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0581
+ - Using 5 steps per peak; omega_step = 0.0116
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1028 steps
+[5.264307515789472, 30.69636951578947, 25.125244715789474, 19.210526315789473, 15.596657915789471, 13.381706315789472, 11.939840315789473]
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0581
+ - Using 5 steps per peak; omega_step = 0.0116
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1028 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0581
+ - Using 5 steps per peak; omega_step = 0.0116
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1028 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0581
+ - Using 5 steps per peak; omega_step = 0.0116
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1028 steps
+
+ ===============================================================================
+ Job finished at Thu Jun  7 17:26:55 BST 2018
+
+
+Requested resource limits are neednodes=1:ppn=16,nodes=1:ppn=16,pmem=4000mb,walltime=15:00:00
+Used resource limits are cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:10

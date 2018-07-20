@@ -1,0 +1,163 @@
+ Running PBS prologue script on green0145
+
+ ===============================================================================
+ Job started on Thu Jun  7 07:54:01 BST 2018
+
+ JOB ID: 5330137.blue101
+ JOB NAME: noVM_minion630_19
+ Num Hosts: 1
+ Num Tasks: 16
+ Nodes used: 
+ green0145
+ ===============================================================================
+ Job Output Follows:
+ ===============================================================================
+
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  9.9 to 1.1e+02
+ - Computing periods at 79 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1616 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  9.9 to 1.1e+02
+ - Computing periods at 79 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1616 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  9.9 to 1.1e+02
+ - Computing periods at 79 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  9.9 to 1.1e+02
+ - Computing periods at 79 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1616 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1616 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1616 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  9.9 to 1.1e+02
+ - Computing periods at 79 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 83323 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 83323 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 83323 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 83323 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 83323 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 83323 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 83323 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.0029 to 0.012
+ - Computing periods at 222154 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.0029 to 0.012
+ - Computing periods at 222154 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.037
+ - Using 5 steps per peak; omega_step = 0.0074
+ - User-specified period range:  0.0029 to 0.012
+ - Computing periods at 222154 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+[22.6016504, 25.151654399999998, 24.5930528, 24.0, 23.6376472, 23.41556, 23.270988]
+
+ ===============================================================================
+ Job finished at Thu Jun  7 15:14:58 BST 2018
+
+
+Requested resource limits are neednodes=1:ppn=16,nodes=1:ppn=16,pmem=4000mb,walltime=15:00:00
+Used resource limits are cput=97:24:24,mem=1638288kb,vmem=23623652kb,walltime=07:20:57

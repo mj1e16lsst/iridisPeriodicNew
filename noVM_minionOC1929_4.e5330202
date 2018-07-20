@@ -1,0 +1,2 @@
+/home/mj1e16/periodic/minionOC1929_4.py:145: RuntimeWarning: divide by zero encountered in log
+  logmins = [np.log(d) for d in minutes] # for plotting?

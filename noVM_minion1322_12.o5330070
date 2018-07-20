@@ -1,0 +1,163 @@
+ Running PBS prologue script on green0403
+
+ ===============================================================================
+ Job started on Wed Jun  6 10:16:01 BST 2018
+
+ JOB ID: 5330070.blue101
+ JOB NAME: noVM_minion1322_12
+ Num Hosts: 1
+ Num Tasks: 16
+ Nodes used: 
+ green0403
+ ===============================================================================
+ Job Output Follows:
+ ===============================================================================
+
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  10 to 1.1e+02
+ - Computing periods at 71 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1464 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1464 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  10 to 1.1e+02
+ - Computing periods at 71 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  10 to 1.1e+02
+ - Computing periods at 71 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1464 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  10 to 1.1e+02
+ - Computing periods at 71 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1464 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  10 to 1.1e+02
+ - Computing periods at 71 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 1464 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 75483 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 75483 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 75483 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 75483 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 75483 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 75483 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.01 to 0.52
+ - Computing periods at 75483 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.0029 to 0.012
+ - Computing periods at 201250 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.0029 to 0.012
+ - Computing periods at 201250 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.0408
+ - Using 5 steps per peak; omega_step = 0.00816
+ - User-specified period range:  0.0029 to 0.012
+ - Computing periods at 201250 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+[7.474833831578945, 32.90689583157894, 27.335771031578947, 21.421052631578945, 17.807184231578944, 15.592232631578945, 14.150366631578946]
+
+ ===============================================================================
+ Job finished at Wed Jun  6 19:32:13 BST 2018
+
+
+Requested resource limits are neednodes=1:ppn=16,nodes=1:ppn=16,pmem=4000mb,walltime=15:00:00
+Used resource limits are cput=116:12:43,mem=1496844kb,vmem=26234184kb,walltime=09:16:12

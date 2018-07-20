@@ -1,0 +1,42 @@
+ Running PBS prologue script on green0243
+
+ ===============================================================================
+ Job started on Mon Jun 11 04:17:09 BST 2018
+
+ JOB ID: 5344735.blue101
+ JOB NAME: noVM_minionOC169_19
+ Num Hosts: 1
+ Num Tasks: 16
+ Nodes used: 
+ green0243
+ ===============================================================================
+ Job Output Follows:
+ ===============================================================================
+
+Finding optimal frequency:
+ - Estimated peak width = 0.072
+ - Using 5 steps per peak; omega_step = 0.0144
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 831 steps
+Finding optimal frequency:
+ - Estimated peak width = 0.072
+ - Using 5 steps per peak; omega_step = 0.0144
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 831 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+Zooming-in on 5 candidate peaks:
+ - Computing periods at 1000 steps
+[23.9459026, 24.0445536, 24.0229432, 24.0, 23.9859818, 23.97739, 23.971797]
+Finding optimal frequency:
+ - Estimated peak width = 0.072
+ - Using 5 steps per peak; omega_step = 0.0144
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 831 steps
+
+ ===============================================================================
+ Job finished at Mon Jun 11 04:17:21 BST 2018
+
+
+Requested resource limits are neednodes=1:ppn=16,nodes=1:ppn=16,pmem=4000mb,walltime=15:00:00
+Used resource limits are cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:12

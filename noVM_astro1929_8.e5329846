@@ -1,0 +1,82 @@
+/home/mj1e16/periodic/astro1929_8.py:142: RuntimeWarning: divide by zero encountered in log
+  logmins = [np.log(d) for d in minutes] # for plotting?
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "
+/home/mj1e16/periodic/lomb_scargle_fast.py:429: UserWarning: For smaller datasets, the approximation used by LombScargleFast may not be suitable.
+It is recommended to use LombScargle instead.
+To silence this warning, set ``silence_warnings=True``
+  warnings.warn("For smaller datasets, the approximation used by "

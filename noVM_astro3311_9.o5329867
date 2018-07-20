@@ -1,0 +1,28 @@
+ Running PBS prologue script on green0240
+
+ ===============================================================================
+ Job started on Sun Jun  3 22:05:50 BST 2018
+
+ JOB ID: 5329867.blue101
+ JOB NAME: noVM_astro3311_9
+ Num Hosts: 1
+ Num Tasks: 16
+ Nodes used: 
+ green0240
+ ===============================================================================
+ Job Output Follows:
+ ===============================================================================
+
+Finding optimal frequency:
+ - Estimated peak width = 0.0636
+ - Using 5 steps per peak; omega_step = 0.0127
+ - User-specified period range:  0.5 to 10
+ - Computing periods at 940 steps
+[14.583283473684208, 25.036973473684206, 22.746997473684207, 20.31578947368421, 18.830331473684208, 17.919889473684208, 17.32721947368421]
+
+ ===============================================================================
+ Job finished at Sun Jun  3 22:06:04 BST 2018
+
+
+Requested resource limits are neednodes=1:ppn=16,nodes=1:ppn=16,pmem=4000mb,walltime=15:00:00
+Used resource limits are cput=00:00:04,mem=22464kb,vmem=275004kb,walltime=00:00:14
