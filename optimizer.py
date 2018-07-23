@@ -87,7 +87,8 @@ class LinearScanOptimizer(PeriodicOptimizer):
         omega_step = width / self.first_pass_coverage
         omega_min = 2 * np.pi / np.max(self.period_range)
         omega_max = 2 * np.pi / np.min(self.period_range)
-        omegas = np.arange(omega_min, omega_max + omega_step, omega_step)
+        #omegas = np.logspace(np.log10(omega_min), np.log10(omega_max), 1000000) # + omega_step, omega_step)
+	omegas = np.arange(omega_min, omega_max + omega_step, omega_step)
         periods = 2 * np.pi / omegas
 
         # print some updates if desired
@@ -153,4 +154,4 @@ class LinearScanOptimizer(PeriodicOptimizer):
         if return_scores:
             return best_periods[:n_periods], best_scores[:n_periods]
         else:
-            return best_periods[:n_periods]
+            return best_periods[:n_periods], best_scores[:n_periods]
